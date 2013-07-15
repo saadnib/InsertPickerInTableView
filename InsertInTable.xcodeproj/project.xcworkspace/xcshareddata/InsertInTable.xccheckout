@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9E8FA463-79EC-4227-B9AE-31F445098EE1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InsertInTable</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>14A846FB-43C6-455A-9FE3-9C980C5621A1</key>
+		<string>https://github.com/saadnib/InsertPickerInTableView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>InsertInTable.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>14A846FB-43C6-455A-9FE3-9C980C5621A1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/saadnib/InsertPickerInTableView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>14A846FB-43C6-455A-9FE3-9C980C5621A1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>14A846FB-43C6-455A-9FE3-9C980C5621A1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>InsertPickerInTableView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
